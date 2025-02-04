@@ -1,0 +1,5 @@
+https://coolors.co/colors
+https://fontawesome.com/
+https://webgradients.com/
+https://owlcarousel2.github.io/OwlCarousel2/
+https://michalsnik.github.io/aos/
