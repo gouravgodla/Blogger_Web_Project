@@ -3,7 +3,7 @@
 Welcome to the **Blogger Web Project** – a stylish, responsive, and interactive blogging website built using core front-end technologies. This project showcases a clean design, smooth animations, and essential features for an engaging blog-reading experience.
 
 ## 🚀 Live Demo
-[Click here to view the live project](#) *(Replace this with your actual live link)*
+[Click here to view the live project](https://blogger-web-project.vercel.app/)
 
 ---
 
@@ -29,4 +29,9 @@ Welcome to the **Blogger Web Project** – a stylish, responsive, and interactiv
 ---
 
 ## 📂 Project Structure
-
+Blogger_Web_Project/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+└── images/
